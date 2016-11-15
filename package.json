@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@types/node": "^6.0.46",
+    "@types/underscore": "^1.7.33",
+    "mturk-api": "^3.0.2",
+    "typescript": "^2.0.9",
+    "underscore": "^1.8.3",
+    "xml2js": "^0.4.17"
+  },
+  "scripts": {
+    "start": "node lib/index.js"
+  }
+}
